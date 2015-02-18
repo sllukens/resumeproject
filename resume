@@ -1,0 +1,70 @@
+<html>
+<style>
+h1 {
+  font-family: helvetica, helvetica, sans-serif;
+  color: white;
+  background-color: #ABABAB;
+  font-size: 5em;
+}
+h2{
+  font-family: helvetica, helvetica, sans-serif;
+  color: coral;
+  font-size: 20px;
+}
+h3{
+  font-family: helvetica, helvetica, sans-serif;
+  color: #92B5F2;
+  font-size: 27px;
+  border-bottom: gray 3px solid;
+  text-align: right;
+}
+h4{
+  font-family: helvetica, helvetica, sans-serif;
+  color: #92B5F2;
+  text-align: left;
+  font-size: 20px;
+  border-bottom: #ABABAB 1px solid;
+}
+ul{
+  color: gray;
+  font-family: helvectica, helvetica, sans-serif;
+}
+p{
+  color: gray;
+  font-family: helvectica, helvetica, sans-serif;
+}
+</style>
+<head>
+<h1> Samantha Lukens </h1>
+<h3> sl602029@sju.edu // xxx-xxx-xxxx </h3>
+</head>
+<body>
+<h4> EDUCATION </h4>
+<p> <strong> Saint Joseph's University </strong> <em> Philadelphia, PA </em> </p>
+<p>Bachelor of Arts - Communication Studies
+<br> Minor: Chinese </br>
+GPA: 3.9/4.0 </p>
+<h4> SKILLS </h4>
+<ul>
+  <li> Highly skilled in Adobe InDesign </li>
+  <li> Highly skilled in Microsoft Office </li>
+  <li> Familiar with Adobe Photoshop and Premiere Pro</li>
+  <li> Familiar with basic HTML and CSS coding </li>
+</ul>
+<h4> ACTIVITIES </h4>
+<p> <strong> The Hawk Newspaper <em> Layout Editor </em> </strong> (2015)
+<br> Responsible for laying out and arranging all content of the newspaper. Also responsible for creating graphics and headers for the articles. </p>
+<p> <strong> Asian Student Association </strong> (2013-Present) </p>
+<p> <strong> Chinese Language Club </strong> (2013-Present) </p>
+<p> <strong> Special Olympics </strong> (Fall 2014) </p>
+<h4> EXPERIENCE </h4>
+<p> <strong> Alpha Phi Red Dress Gala </strong>
+<br> Designed and created a poster to thank sponsors for the Alpha Phi Red Dress Gala. Also designed a background that was projected on a screen throughout the event. </p>
+<p> <strong> Project Title Wave </strong>
+<br> Designed and created an informational flyer for Project Title Wave, a charity to help buy school supplies for children in the Philippines. </p>
+<p> <strong> He For She </strong>
+<br> Designed and created an informational flyer to advertise the He For She club at Saint Joseph's University.</p>
+<p> <strong> Radio 1851 (Firinji) </strong>
+<br> Designed and created an advertisement for an Radio 1851 contest to win a giftcard for the restaurant Firinji.</p>
+</body>
+</html>
